@@ -158,3 +158,4 @@ pip install tensorflow numpy scikit-learn
 ## Author
 
 Created for learning and demonstration of activation functions and small TensorFlow models
+by Abhinav Singh
