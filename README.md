@@ -154,6 +154,8 @@ pip install tensorflow numpy scikit-learn
 * Ideal for educational and experimental purposes
 
 ---
+Now started which optimizers
+
 
 ## Author
 
