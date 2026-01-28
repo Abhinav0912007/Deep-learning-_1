@@ -155,6 +155,7 @@ pip install tensorflow numpy scikit-learn
 
 ---
 Now started which optimizers
+and ANN
 
 
 ## Author
